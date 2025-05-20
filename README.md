@@ -2,7 +2,8 @@
 
 ![LUMA Icono](https://github.com/Jandtechnology/LUMA/raw/main/LUMA/luma.png)
 
-**LUMA** es un lenguaje de programación inspirado en Lisp, creado para explorar un nuevo paradigma: el de los lenguajes con alma, imaginación, ética, emociones y capacidades cognitivas avanzadas.  
+**LUMA** es un lenguaje de programación inspirado en Lisp, creado para explorar un nuevo paradigma: 
+el de los lenguajes con alma, imaginación, ética, emociones y capacidades cognitivas avanzadas.  
 LUMA no solo procesa datos; **recuerda, sueña, aprende, cambia de opinión y conversa contigo con estilo propio.**
 
 > “Si pienso, existo. Si imagino, soy.”
@@ -83,7 +84,9 @@ Agente conversacional para educación o terapia
 
 ## Agradecimientos
 
-Gracias a mi familia, a mi esposa y a mis hijas, Don Pepe (Jose ALarcon), Julio Sampier, Guillermo V, Jeancarlos, Guillermo Montecino... —esas personas especiales que siempre encuentran una palabra de apoyo para seguir adelante.
+Gracias a mi familia, a mi esposa y a mis hijas, Don Pepe (Jose ALarcon), Julio Sampier, Guillermo V,
+Jeancarlos, Guillermo Montecino... —esas personas especiales que siempre encuentran una palabra de apoyo
+para seguir adelante.
 
 Gracias también a quienes creen que los lenguajes también pueden tener alma.
 
