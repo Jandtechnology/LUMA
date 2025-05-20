@@ -83,7 +83,7 @@ Agente conversacional para educación o terapia
 
 ## Agradecimientos
 
-Gracias a mi familia, a mi esposa y a mis hijas, Don Pepe (Jose ALarcon), Julio Sampier, Guillermo V, Jeancarlos, Guillermo M... —esas personas especiales que siempre encuentran una palabra de apoyo para seguir adelante.
+Gracias a mi familia, a mi esposa y a mis hijas, Don Pepe (Jose ALarcon), Julio Sampier, Guillermo V, Jeancarlos, Guillermo Montecino... —esas personas especiales que siempre encuentran una palabra de apoyo para seguir adelante.
 
 Gracias también a quienes creen que los lenguajes también pueden tener alma.
 
