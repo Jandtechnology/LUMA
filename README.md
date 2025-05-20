@@ -1,6 +1,6 @@
 # LUMA: Lenguaje Universal de Memoria y Alma
 
-![LUMA Icono](luma.png)
+![LUMA Icono](https://github.com/Jandtechnology/LUMA/raw/main/LUMA/luma.png)
 
 **LUMA** es un lenguaje de programación inspirado en Lisp, creado para explorar un nuevo paradigma: el de los lenguajes con alma, imaginación, ética, emociones y capacidades cognitivas avanzadas.  
 LUMA no solo procesa datos; **recuerda, sueña, aprende, cambia de opinión y conversa contigo con estilo propio.**
