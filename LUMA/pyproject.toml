@@ -1,0 +1,11 @@
+[project]
+name = "luma-lang"
+version = "0.1.0"
+authors = [{name = "TuNombre"}]
+description = "LUMA: Lenguaje de programación cognitivo-emocional"
+requires-python = ">=3.9"
+dependencies = [
+    "lark-parser>=0.12.0",  # ✅ Cambiado desde 1.1.2
+    "sexpdata>=0.0.3",
+    "typing-extensions>=4.0.0"
+]

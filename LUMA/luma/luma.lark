@@ -1,0 +1,38 @@
+
+// Gramática extendida para el Lenguaje Universal de Memoria y Alma
+
+inicio: instruccion+
+
+?instruccion: asignacion
+            | imprimir
+
+asignacion: CNAME "=" expresion
+imprimir: "imprimir" expresion
+
+?expresion: operacion
+          | funcion
+          | numero
+          | variable
+
+?operacion: expresion "+" expresion   -> suma
+          | expresion "-" expresion   -> resta
+          | expresion "*" expresion   -> multiplicacion
+          | expresion "/" expresion   -> division
+          | expresion "^" expresion   -> potencia
+          | "raiz" "(" expresion ")"  -> raiz
+
+?funcion: "media" "(" lista ")"       -> media
+        | "mediana" "(" lista ")"     -> mediana
+        | "moda" "(" lista ")"        -> moda
+        | "varianza" "(" lista ")"    -> varianza
+        | "desviacion" "(" lista ")"  -> desviacion
+
+?lista: expresion ("," expresion)*
+
+numero: SIGNED_NUMBER
+variable: CNAME
+
+%import common.SIGNED_NUMBER
+%import common.CNAME
+%import common.WS
+%ignore WS

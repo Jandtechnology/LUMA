@@ -1,0 +1,12 @@
+from luma_parser.parsing.dual import DualParser
+
+parser = DualParser()
+ast = parser.parse("(define x 42)")
+print(f"AST generado: {type(ast).__name__}")
+
+ast = parser.parse_file("ejemplo.luma")
+
+try:
+    ast = parser.parse("código inválido")
+except ParseError as e:
+    print(f"Error de parsing: {e}")

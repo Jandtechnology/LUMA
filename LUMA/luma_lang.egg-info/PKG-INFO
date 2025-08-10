@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: luma-lang
+Version: 0.1.0
+Summary: LUMA: Lenguaje de programación cognitivo-emocional
+Author: TuNombre
+Project-URL: Source, https://github.com/tuusuario/luma-lang
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: debug
+Provides-Extra: profile
+Provides-Extra: speed

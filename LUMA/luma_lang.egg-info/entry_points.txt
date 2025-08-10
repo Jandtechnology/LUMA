@@ -1,0 +1,3 @@
+[console_scripts]
+luma = luma.cli.main:app
+luma-parse = luma_parser.cli:main

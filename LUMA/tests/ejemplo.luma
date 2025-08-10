@@ -1,0 +1,17 @@
+; Ejemplo de código LUMA (versión S-expression)
+(define-concept Emoción
+  (propiedad intensidad (rango 0.0 1.0))
+  (propiedad valencia (enum "positiva" "neutral" "negativa"))
+  (método describir ()
+    (si (> .intensidad 0.7)
+      (str "Emoción intensa: " .valencia)
+      (str "Emoción leve: " .valencia))))
+
+(emoción mi-estado (intensidad 0.8) (valencia "positiva"))
+
+x = 3
+y = 4
+imprimir x
+imprimir y
+z = x + y
+imprimir z
